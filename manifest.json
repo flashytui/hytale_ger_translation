@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "name": "Hytale Deutsch Übersetzung",
+  "name": "Hytale Deutsche Übersetzung",
   "id": "hytale_de_translation",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "type": "resource",
   "description": "Eine vollständige deutsche Übersetzung für Hytale."
 }
